@@ -55,3 +55,12 @@ git clone https://github.com/mffdeo/fundamentos-node-rocketseat.git
 
 # Clone com SSH
 git clone git@github.com:mffdeo/fundamentos-node-rocketseat.git
+
+# Acesse a pasta
+cd fundamentos-node-rocketseat
+
+# Instale as dependências
+npm install
+
+# Rode o projeto
+npm run autoserver
