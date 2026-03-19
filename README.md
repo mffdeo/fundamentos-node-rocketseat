@@ -50,4 +50,8 @@ Este projeto foca nos fundamentos mais importantes do backend:
 ### 1. Clone o repositório
 
 ```bash
+# Clone com HTTPS 
 git clone https://github.com/mffdeo/fundamentos-node-rocketseat.git
+
+# Clone com SSH
+git clone git@github.com:mffdeo/fundamentos-node-rocketseat.git
